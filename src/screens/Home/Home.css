@@ -1,0 +1,28 @@
+.home-page{
+    flex: 1;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    justify-content: center;
+}
+.home-img{
+    /* position: absolute;
+    top:0px;
+    bottom: 0px; */
+    flex:1;
+}
+
+.home-vid{
+    position: absolute;
+    left: 10px;
+}
+
+@media (width < 650px) {
+    .home-vid{
+        left: 0px;
+        right:0px;
+    }
+}

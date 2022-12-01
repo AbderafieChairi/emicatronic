@@ -1,0 +1,26 @@
+.ach-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 100px 0px;
+}
+.ach-container > div {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-width: 400px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ach-Article > p {
+    text-align: center;
+    
+}
+.ach-Article {
+    margin:30px auto;
+}

@@ -1,0 +1,32 @@
+
+.blog-title{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    margin: 20px;
+}
+
+.other-blogs{
+    font-weight: bold;
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+}
+
+.blog-item{
+    padding: 8px 10px;
+    background-color: rgb(206, 217, 226);
+
+}
+
+.blog-item:hover{
+    cursor: pointer;
+    background-color: rgb(149, 178, 203);
+
+}
+
+.blogs-container{
+    width: max-content;
+    margin: 10px auto 70px;
+    min-width: 400px;
+}

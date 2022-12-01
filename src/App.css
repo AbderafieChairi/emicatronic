@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+*{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  background-color: #f3f3f3;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

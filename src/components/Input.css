@@ -1,0 +1,48 @@
+
+
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    background: none;
+    outline: none;
+    resize: none;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    transition: all .3s;
+    border-bottom: 2px solid #bebed2
+}
+
+input:focus {
+    border-bottom: 2px solid #78788c
+}
+
+p:before {
+    content: attr(type);
+    display: block;
+    margin: 28px 0 0;
+    font-size: 14px;
+    color: #5a5a5a
+}
+
+#file{
+    display: none;
+}
+
+
+#file-container{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    padding: 10px;
+    background-color: #d7e9ed;
+    width: max-content;
+    align-items: center;
+    margin: 10px auto;
+}
+#file-container:hover{
+    background-color: #baccd0;
+    cursor: pointer;
+}

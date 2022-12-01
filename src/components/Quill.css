@@ -1,0 +1,32 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+}
+.quill{
+    background-color: #f3f3f3;
+    /* margin:20px; */
+    width: inherit;
+}
+.ql-editor{
+    min-height: 500px;
+    width: inherit;
+    background-color: white;
+}
+
+/* .ql-toolbar.ql-snow{
+    background-color: #f3f3f3;
+    display: flex;
+    top: 0px;
+    z-index: 1;
+    position: sticky;
+    justify-content: center;
+    align-items: center;
+} */
+
+.save-button{
+    border:none;
+    background-color: greenyellow;
+    padding: 7px 13px;
+}
