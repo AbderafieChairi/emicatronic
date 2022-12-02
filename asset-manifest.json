@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/emicatronic/static/css/main.6d79c85b.css",
-    "main.js": "/emicatronic/static/js/main.7dbb99a7.js",
+    "main.css": "/emicatronic/static/css/main.bc4a8176.css",
+    "main.js": "/emicatronic/static/js/main.295f8b5c.js",
     "static/js/787.083b7037.chunk.js": "/emicatronic/static/js/787.083b7037.chunk.js",
     "static/media/vid.mp4": "/emicatronic/static/media/vid.e0b21166fd1891153965.mp4",
     "static/media/home.png": "/emicatronic/static/media/home.ccfa823223d33c582468.png",
     "index.html": "/emicatronic/index.html",
-    "main.6d79c85b.css.map": "/emicatronic/static/css/main.6d79c85b.css.map",
-    "main.7dbb99a7.js.map": "/emicatronic/static/js/main.7dbb99a7.js.map",
+    "main.bc4a8176.css.map": "/emicatronic/static/css/main.bc4a8176.css.map",
+    "main.295f8b5c.js.map": "/emicatronic/static/js/main.295f8b5c.js.map",
     "787.083b7037.chunk.js.map": "/emicatronic/static/js/787.083b7037.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d79c85b.css",
-    "static/js/main.7dbb99a7.js"
+    "static/css/main.bc4a8176.css",
+    "static/js/main.295f8b5c.js"
   ]
 }
